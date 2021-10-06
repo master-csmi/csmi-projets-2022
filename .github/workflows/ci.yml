@@ -7,7 +7,7 @@ jobs:
   activate:
     runs-on: ubuntu-20.04
     if: |
-      github.repository == 'master-csmi/csmi-projets' &&
+      github.repository == 'master-csmi/csmi-projets-2022' &&
       !startsWith(github.event.head_commit.message, 'Release ') &&
       !contains(github.event.head_commit.message, 'ci skip')
     steps:
