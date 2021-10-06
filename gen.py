@@ -38,7 +38,7 @@ for module in ['m2']:
             writeRapports(f, n, fn, s, e, p)
     f.close()
     f = open("modules/"+module+"/partials/projets.adoc", "w")
-    f.write('[cols="1,1,2,4,1,1"]\n|===\n')
+    f.write('[cols="1,1,2,2,1,1,1"]\n|===\n')
     f.write('| Nom | Prénom | Entreprise | Sujet | Présentation | Stage | Doctorat \n')
     for n, fn, s, e, p, stage,phd in sorted(zip(names, firstnames, sujets, entreprises, pres,stages,phds), key=lambda x: x[0].value):
             if n.value == 'Nom':
