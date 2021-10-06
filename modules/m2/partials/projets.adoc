@@ -1,37 +1,35 @@
 [cols="1,1,2,4"]
 |===
-| Nom | Prénom | Entreprise | Sujet
+| Nom | Prénom | Entreprise | Sujet | Stage | Doctorat 
 
-| Aghili | Joubine |  _Méthodes numériques structure preserving pour les EDPs_ | link:{attachmentsdir}/presentations/unistra-pde.pdf[unistra-pde.pdf] 
+| Aghili | Joubine |  _Méthodes numériques structure preserving pour les EDPs_ | link:{attachmentsdir}/presentations/unistra-pde.pdf[unistra-pde.pdf]  | Peut-être | Non
 
-| Berti | Luca |  _Apprentissage de la nage en présence de bords_ | link:{attachmentsdir}/presentations/unistra-swimmer.pdf[unistra-swimmer.pdf] 
+| Berti | Luca |  _Apprentissage de la nage en présence de bords_ | link:{attachmentsdir}/presentations/unistra-swimmer.pdf[unistra-swimmer.pdf]  | Oui | Oui
 
-| Caldini-Queiros | Céline |  _Geométrie de simulation en médecine interventionnelle_ | link:{attachmentsdir}/presentations/gehc-irradiation.pdf[gehc-irradiation.pdf] 
+| Caldini-Queiros | Céline |  _Geométrie de simulation en médecine interventionnelle_ | link:{attachmentsdir}/presentations/gehc-irradiation.pdf[gehc-irradiation.pdf]  | Peut-être | Non
 
-| Fouquembergh | Michel |  _MBDA 1 / Bases réduites pour modèle thermique linéaire_ | link:{attachmentsdir}/presentations/mbda-reduced-basis.pdf[mbda-reduced-basis.pdf] 
+| Fouquembergh | Michel |  _MBDA 1 / Bases réduites pour modèle thermique linéaire_ | link:{attachmentsdir}/presentations/mbda-reduced-basis.pdf[mbda-reduced-basis.pdf]  | Oui | Non
 
-| Fouquembergh | Michel |  _MBDA 2 : Prise en compte des échanges mutuels radiatifs dans un modèle thermique. Calcul des facteurs de vue et des radiosités_ | link:{attachmentsdir}/presentations/mbda-view-factor.pdf[mbda-view-factor.pdf] 
+| Fouquembergh | Michel |  _MBDA 2 : Prise en compte des échanges mutuels radiatifs dans un modèle thermique. Calcul des facteurs de vue et des radiosités_ | link:{attachmentsdir}/presentations/mbda-view-factor.pdf[mbda-view-factor.pdf]  | Oui | Non
 
-| Franck  | Emmanuel  |  _Propagation d incertitude par modèle generatif profond_ | link:{attachmentsdir}/presentations/inria.pdf[inria.pdf] 
+| Franck  | Emmanuel  |  _Propagation d incertitude par modèle generatif profond_ | link:{attachmentsdir}/presentations/inria.pdf[inria.pdf]  | Oui | Peut-être
 
-| Gerner | Philippe |  _Profiling de l'utilisation d'appareils médicaux_ | link:{attachmentsdir}/presentations/gehc-optim.pdf[gehc-optim.pdf] 
+| Gerner | Philippe |  _Profiling de l'utilisation d'appareils médicaux_ | link:{attachmentsdir}/presentations/gehc-optim.pdf[gehc-optim.pdf]  | Peut-être | Non
 
-| Massein | Aurélien |  _Méta-modélisation pour l'optimisation numérique_ | link:{attachmentsdir}/presentations/bdrthermea-metamodel.pdf[bdrthermea-metamodel.pdf] 
+| Massein | Aurélien |  _Méta-modélisation pour l'optimisation numérique_ | link:{attachmentsdir}/presentations/bdrthermea-metamodel.pdf[bdrthermea-metamodel.pdf]  | Oui | Non
 
-| Meyer | Philippe |  _Morphotypes du corps humain : approches par clustering et topological data analysis_ | link:{attachmentsdir}/presentations/ditex-morphotype.pdf[ditex-morphotype.pdf] 
+| Meyer | Philippe |  _Morphotypes du corps humain : approches par clustering et topological data analysis_ | link:{attachmentsdir}/presentations/ditex-morphotype.pdf[ditex-morphotype.pdf]  | Oui | Oui
 
-| Nom | Prénom |  _Titre du projet (par défaut le nom de l'entreprise)_ | link:{attachmentsdir}/presentations/None.pdf[None.pdf] 
+| Pangon | Vincent |  _Evaluation des méthodes UNET[1]/ LSTM[2] pour l’annotation interactive_ | link:{attachmentsdir}/presentations/gehc-vis.pdf[gehc-vis.pdf]  | Oui | Oui
 
-| Pangon | Vincent |  _Evaluation des méthodes UNET[1]/ LSTM[2] pour l’annotation interactive_ | link:{attachmentsdir}/presentations/gehc-vis.pdf[gehc-vis.pdf] 
+| Pangon | Vincent |  _Evaluation des architectures UNET sans Normalisation_ | link:{attachmentsdir}/presentations/gehc-vis.pdf[gehc-vis.pdf]  | Oui | Oui
 
-| Pangon | Vincent |  _Evaluation des architectures UNET sans Normalisation_ | link:{attachmentsdir}/presentations/gehc-vis.pdf[gehc-vis.pdf] 
+| Parguey | Coraline |  _Prédiction d'incidents informatiques_ | link:{attachmentsdir}/presentations/capgemini-incidents.pdf[capgemini-incidents.pdf]  | Oui | Non
 
-| Parguey | Coraline |  _Prédiction d'incidents informatiques_ | link:{attachmentsdir}/presentations/capgemini-incidents.pdf[capgemini-incidents.pdf] 
+| Schuster | Nicolas |  _Optimisation de Production_ | link:{attachmentsdir}/presentations/lde-optimprod.pdf[lde-optimprod.pdf]  | Oui | Non
 
-| Schuster | Nicolas |  _Optimisation de Production_ | link:{attachmentsdir}/presentations/lde-optimprod.pdf[lde-optimprod.pdf] 
+| Syphax | Ikardouchene |  _Synapse-QAI_ | link:{attachmentsdir}/presentations/synapse-qai.pdf[synapse-qai.pdf]  | Oui | Non
 
-| Syphax | Ikardouchene |  _Synapse-QAI_ | link:{attachmentsdir}/presentations/synapse-qai.pdf[synapse-qai.pdf] 
-
-| Trophime | Christophe |  _Modélisation d'aimants supraconducteurs_ | link:{attachmentsdir}/presentations/lncmi-supermagnets.pdf[lncmi-supermagnets.pdf] 
+| Trophime | Christophe |  _Modélisation d'aimants supraconducteurs_ | link:{attachmentsdir}/presentations/lncmi-supermagnets.pdf[lncmi-supermagnets.pdf]  | Oui | Oui
 
 |===
