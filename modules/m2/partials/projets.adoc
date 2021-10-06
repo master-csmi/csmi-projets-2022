@@ -2,34 +2,36 @@
 |===
 | Nom | Prénom | Entreprise | Sujet
 
-| Anki | Lucas | link:http://synovo.fr[Synovo] | _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un Vehicle Routing Problem._
+| Aghili | Joubine |  _Méthodes numériques structure preserving pour les EDPs_ | link:{attachmentsdir}/presentations/unistra-pde.pdf[unistra-pde.pdf] 
 
-| Azzoug | Celia | link:[New Xperience-3D] | _Développement Applicatif_
+| Berti | Luca |  _Apprentissage de la nage en présence de bords_ | link:{attachmentsdir}/presentations/unistra-swimmer.pdf[unistra-swimmer.pdf] 
 
-| Bernard | Pierre | link:https://www.totalenergies.fr/[TotalEnergies] | _Accompagner TotalEnergies dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._
+| Caldini-Queiros | Céline |  _Geométrie de simulation en médecine interventionnelle_ | link:{attachmentsdir}/presentations/gehc-irradiation.pdf[gehc-irradiation.pdf] 
 
-| El Houssaini | Youness | link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials] | _Control of the Goldak heat source parameters_x000D_
-based on experimental welding data using finite element analysis._
+| Fouquembergh | Michel |  _MBDA 1 / Bases réduites pour modèle thermique linéaire_ | link:{attachmentsdir}/presentations/mbda-reduced-basis.pdf[mbda-reduced-basis.pdf] 
 
-| Graff | Jonathan | link:https://www.unistra.fr[Universite De Strasbourg] | _Algèbres géométriques pour la robotique en Coq_
+| Fouquembergh | Michel |  _MBDA 2 : Prise en compte des échanges mutuels radiatifs dans un modèle thermique. Calcul des facteurs de vue et des radiosités_ | link:{attachmentsdir}/presentations/mbda-view-factor.pdf[mbda-view-factor.pdf] 
 
-| Madani | Sarra Amel | link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services] | _Stage Consultante SAP BI_
+| Franck  | Emmanuel  |  _Propagation d incertitude par modèle generatif profond_ | link:{attachmentsdir}/presentations/inria.pdf[inria.pdf] 
 
-| Nzoyem Ngueguin | Roussel Desmond | link:[Sorbonne Universite] | _Fracturation des floes de glace par percussions dans un modèle granulaire_
+| Gerner | Philippe |  _Profiling de l'utilisation d'appareils médicaux_ | link:{attachmentsdir}/presentations/gehc-optim.pdf[gehc-optim.pdf] 
 
-| Ouachour | Hanane | link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans] | _Apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - Université d'Orléans - Projet RTR DIAMS (19022LIF)_
+| Massein | Aurélien |  _Méta-modélisation pour l'optimisation numérique_ | link:{attachmentsdir}/presentations/bdrthermea-metamodel.pdf[bdrthermea-metamodel.pdf] 
 
-| Pinçon | Philippe | link:https://www.insimo.com/fr/[Insimo] | _Mise à jour de factorisations de Cholesky creuses dans le contexte de la simulation chirurgicale_x000D_
-interactive._
+| Meyer | Philippe |  _Morphotypes du corps humain : approches par clustering et topological data analysis_ | link:{attachmentsdir}/presentations/ditex-morphotype.pdf[ditex-morphotype.pdf] 
 
-| Pinçon | Philippe | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Mise à jour de factorisations de Cholesky creuses dans le contexte de la simulation chirurgicale interactive._
+| Nom | Prénom |  _Titre du projet (par défaut le nom de l'entreprise)_ | link:{attachmentsdir}/presentations/None.pdf[None.pdf] 
 
-| Saigre-Tardif | Thomas | link:[Universite De Strasbourg - Ufr Math-Info] | _Méthode de réduction d'ordre pour un modèle poreux-élastique et couplage avec un système d'EDO_
+| Pangon | Vincent |  _Evaluation des méthodes UNET[1]/ LSTM[2] pour l’annotation interactive_ | link:{attachmentsdir}/presentations/gehc-vis.pdf[gehc-vis.pdf] 
 
-| Sprunck | Tom | link:[Cea Centre Dam Ile-De-France] | _Estimation rapide des courants et inondations de tsunami à partir d'algorithmes de deep learning_
+| Pangon | Vincent |  _Evaluation des architectures UNET sans Normalisation_ | link:{attachmentsdir}/presentations/gehc-vis.pdf[gehc-vis.pdf] 
 
-| Steimer | Guillaume | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Apprendre la dynamique Hamiltonienne avec des réseaux de neurones_
+| Parguey | Coraline |  _Prédiction d'incidents informatiques_ | link:{attachmentsdir}/presentations/capgemini-incidents.pdf[capgemini-incidents.pdf] 
 
-| Vallet | Romain | link:[Cnrs] | _Modélisation d'aimant supra conducteur a Haute Température Critique_
+| Schuster | Nicolas |  _Optimisation de Production_ | link:{attachmentsdir}/presentations/lde-optimprod.pdf[lde-optimprod.pdf] 
+
+| Syphax | Ikardouchene |  _Synapse-QAI_ | link:{attachmentsdir}/presentations/synapse-qai.pdf[synapse-qai.pdf] 
+
+| Trophime | Christophe |  _Modélisation d'aimants supraconducteurs_ | link:{attachmentsdir}/presentations/lncmi-supermagnets.pdf[lncmi-supermagnets.pdf] 
 
 |===
