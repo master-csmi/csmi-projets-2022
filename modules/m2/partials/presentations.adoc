@@ -11,7 +11,7 @@
 
  - [[[Franck]]] Franck  Emmanuel , _Propagation d incertitude par modèle generatif profond_, link:{attachmentsdir}/presentations/inria.pdf[inria.pdf] 
 
- - [[[Gerner]]] Gerner Philippe, _Profiling de l'utilisation d'appareils médicaux_, link:{attachmentsdir}/presentations/gehc-optim.pdf[gehc-optim.pdf] 
+ - [[[Gerner]]] Gerner Philippe, _Profiling de l'utilisation d'appareils médicaux_, link:{attachmentsdir}/presentations/gehc-activity-profiling.pdf[gehc-activity-profiling.pdf] 
 
  - [[[Massein]]] Massein Aurélien, _Méta-modélisation pour l'optimisation numérique_, link:{attachmentsdir}/presentations/bdrthermea-metamodel.pdf[bdrthermea-metamodel.pdf] 
 
