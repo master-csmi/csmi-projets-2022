@@ -26,7 +26,7 @@ def writeRapports(f, n, fn, s, e, p):
 def writeTableEntry(f, n, fn, s, e, p, stage, phd):
     f.write(
         """
-| {0} | {1} |  _{3}_ | link:{{attachmentsdir}}/presentations/{4}.pdf[{4}.pdf]  | {5} | {6}
+| {0} | {1} | {2} |  _{3}_ | link:{{attachmentsdir}}/presentations/{4}.pdf[{4}.pdf]  | {5} | {6}
 """.format(n.value.title(), fn.value.title(), e.value.title().strip(), s.value.strip(), str(p.value).strip(), str(stage.value), str(phd.value)))
 
 
@@ -38,8 +38,8 @@ for module in ['m2']:
             writeRapports(f, n, fn, s, e, p)
     f.close()
     f = open("modules/"+module+"/partials/projets.adoc", "w")
-    f.write('[cols="1,1,2,4"]\n|===\n')
-    f.write('| Nom | Prénom | Entreprise | Sujet | Stage | Doctorat \n')
+    f.write('[cols="1,1,2,4,1,1"]\n|===\n')
+    f.write('| Nom | Prénom | Entreprise | Sujet | Présentation | Stage | Doctorat \n')
     for n, fn, s, e, p, stage,phd in sorted(zip(names, firstnames, sujets, entreprises, pres,stages,phds), key=lambda x: x[0].value):
             if n.value == 'Nom':
                 continue
