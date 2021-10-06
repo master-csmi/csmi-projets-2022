@@ -1,10 +1,10 @@
 site:
-  title: Master CSMI::Stages 2021
-  url: https://master-csmi.github.io/csmi-stages-2021
-  start_page: csmi-stages-2021:ROOT:index.adoc
+  title: Master CSMI::Projets 2022
+  url: https://master-csmi.github.io/csmi-projets-2022
+  start_page: csmi-projets-2021:ROOT:index.adoc
 content:
   sources:
-  - url: https://github.com/master-csmi/csmi-stages-2021
+  - url: https://github.com/master-csmi/csmi-projets-2022
     branches: main
 ui:
   bundle:
@@ -21,7 +21,7 @@ asciidoc:
     numbered: true
     allow-uri-read: true
     hide-uri-scheme: true
-    year: 2021
+    year: 2022
     feelpp: Feel++
     angiotk: AngioTK
     4fastsim: 4FastSim
